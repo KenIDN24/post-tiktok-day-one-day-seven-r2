@@ -1,8 +1,8 @@
 # Gem Grove — Day One, Day Seven
 
-[![GitHub repo](https://img.shields.io/badge/github-KenIDN24%2Fpost--tiktok--day--one--day--seven--r2-181717?logo=github)](https://github.com/KenIDN24/post-tiktok-day-one-day-seven-r2?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
-[![make.fun bounty](https://img.shields.io/github/stars/KenIDN24/post-tiktok-day-one-day-seven-r2?style=flat&label=make.fun%20bounty)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
-[![make.fun leaderboard](https://img.shields.io/github/commit-activity/m/KenIDN24/post-tiktok-day-one-day-seven-r2?label=make.fun%20rank)](https://make.fun/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![make.fun · post-tiktok-day-one-day-seven-20261123-0327](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![rank](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/KenIDN24/post-tiktok-day-one-day-seven-r2/rank.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![reward](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/KenIDN24/post-tiktok-day-one-day-seven-r2/reward.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
 
 A make.fun bounty entry: a short TikTok video about one tiny agent-built game,
 **Gem Grove**, on the day it was made and after a week of daily updates.
